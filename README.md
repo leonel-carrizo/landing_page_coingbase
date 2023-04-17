@@ -1,2 +1,2 @@
-# landing_page_coinbase
-Coinbase landing page clone, just practicing my skills in web development
+# Landing Page Coinbase Clone
+Simple Coinbase landing page clone, just practicing my skills. 
