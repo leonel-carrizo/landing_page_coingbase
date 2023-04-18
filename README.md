@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with Boobstrap, SAAS and Css with easy to customize colors**
+**🎨 Styled with Boobstrap, SASS and Css with easy to customize colors**
 
 **📱 Fully Responsive**
 
